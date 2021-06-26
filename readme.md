@@ -45,6 +45,3 @@ Historia aktualizacji:
     MECHANIKA       Dodano tablicę wyników
     MECHANIKA       Dodano możliwość zmiany nazwy gracza
     MECHANIKA       Nowa nazwa gracza jest zapisywana do tablicy winików po zakończeniu gry
-
-
-
